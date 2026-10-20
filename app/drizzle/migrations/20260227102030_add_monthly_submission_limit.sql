@@ -1,1 +1,0 @@
-ALTER TABLE "SystemSettings" ADD COLUMN "monthlySubmissionLimit" integer;

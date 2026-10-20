@@ -1,1 +1,0 @@
-ALTER TABLE "SystemSettings" DROP COLUMN "gonganLink";

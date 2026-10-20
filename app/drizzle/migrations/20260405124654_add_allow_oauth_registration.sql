@@ -1,1 +1,0 @@
-ALTER TABLE "SystemSettings" ADD COLUMN "allowOAuthRegistration" boolean DEFAULT false NOT NULL;

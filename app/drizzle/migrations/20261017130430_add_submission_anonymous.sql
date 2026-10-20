@@ -1,2 +1,0 @@
-ALTER TABLE "Song" ADD COLUMN "submissionAnonymous" boolean DEFAULT false NOT NULL;--> statement-breakpoint
-ALTER TABLE "SystemSettings" ADD COLUMN "allowAnonymousSubmission" boolean DEFAULT false NOT NULL;
